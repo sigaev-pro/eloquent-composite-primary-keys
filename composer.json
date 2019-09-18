@@ -1,5 +1,5 @@
 {
-    "name": "coenjacobs/eloquent-composite-primary-keys",
+    "name": "sigaev-pro/eloquent-composite-primary-keys",
     "description": "Offers composite primary keys on Eloquent models",
     "type": "library",
     "license": "MIT",
